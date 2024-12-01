@@ -1,2 +1,2 @@
 Creating delta1.txt file to check whether we can add both the delta file's at once
-Editing this file to chect git fetch command 
+Editing this file to check git fetch command 
