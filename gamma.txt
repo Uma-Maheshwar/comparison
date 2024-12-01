@@ -1,0 +1,2 @@
+this is the gamma file
+I'm adding the second linie from vi editor
